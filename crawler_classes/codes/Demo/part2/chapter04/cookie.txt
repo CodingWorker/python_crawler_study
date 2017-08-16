@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.taobao.com	TRUE	/	FALSE	1510649167	t	1d1fa4a0f49d560bb23a7c16463eabf4
