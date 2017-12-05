@@ -1,0 +1,11 @@
+--创建数据库
+create database taobao_mm charset=utf8;
+
+--创建表mm
+create table mm (
+id int(11) unsigned auto_increment primary key,
+name char(20) default null,
+age int(3) not null default 0,
+model_info_pic varchar(200) default null,
+occupation varchar(200) default null
+)engine innodb charset=utf8;
